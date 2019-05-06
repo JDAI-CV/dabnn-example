@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">bnnlib</string>
+    <string name="app_name">dabnn example</string>
     <string name="welcome_message">Enjoy BNN!</string>
     <string name="predict_text">The image above is %s.\nInference took %d ms.</string>
     <string name="button_text">select an image</string>
