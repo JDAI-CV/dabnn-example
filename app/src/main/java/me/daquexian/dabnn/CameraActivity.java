@@ -46,7 +46,6 @@ public class CameraActivity extends AppCompatActivity implements CvCameraViewLis
     private final String[] perms = {Manifest.permission.CAMERA};
     private final int REQUEST_CODE = 321;
 
-
     private BaseLoaderCallback mLoaderCallback = new BaseLoaderCallback(this) {
         @Override
         public void onManagerConnected(int status) {
@@ -66,7 +65,6 @@ public class CameraActivity extends AppCompatActivity implements CvCameraViewLis
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
-        Log.i(TAG, "called onCreate");
         super.onCreate(savedInstanceState);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
