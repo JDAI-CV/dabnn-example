@@ -1,1 +1,1 @@
-include ':app', ':openCVLibrary340', ':dabnn'
+include ':app', ':openCVLibrary340'
