@@ -4,7 +4,7 @@
 [![jcenter](https://img.shields.io/badge/dynamic/json.svg?label=jcenter&query=name&url=https%3A%2F%2Fapi.bintray.com%2Fpackages%2Fdaquexian566%2Fmaven%2Fdabnn%2Fversions%2F_latest)](https://bintray.com/daquexian566/maven/dabnn/_latestVersion)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/JDAI-CV/dabnn-example/pulls)
 
-This example contains Bi-Real Net 18 with Stem Module (The network structure will be described in detail in our coming paper). 
+This example contains Bi-Real Net 18 with Stem Module (The network structure is described in [our ACM MM paper](https://arxiv.org/abs/1908.05858)). 
 
 Our package for Android has been published on jcenter. Just add
 
