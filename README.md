@@ -21,3 +21,7 @@ The latest version can be found in the following badge:
 Just try it in Android Studio :)
 
 Note: This demo uses OpenCV to read camera, however, the app orientation can only be landscape due to [a bug of OpenCV](https://github.com/opencv/opencv/issues/4704). PRs which replace OpenCV by raw Android Camera API are welcomed.
+
+## Screenshot
+
+![Screenshot](https://drive.google.com/uc?id=1lu8qw3GMuCxY6YcVvKldCJvoDYVtoef6)
